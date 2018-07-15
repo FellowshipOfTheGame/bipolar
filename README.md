@@ -6,9 +6,9 @@ Bipolar is a platform-puzzle game made for the 2016 Fellowship of the Game Membe
 The project has made in *Unity* engine and is avaliable for Windows, Linux and web browsers in https://fog-icmc.itch.io/bipolar.
 
 ## The Bipolar Team
-* Gabriel Toschi ([https://github.com/gabrieltoschi](@gabrieltoschi)): programming, level design
-* William "VViliam" Ferreira ([https://github.com/wqferr](@wqferr)): programming, music, level design
-* João Reis ([https://github.com/JonReyz](@JonReyz)): programming, level design
+* Gabriel Toschi ([@gabrieltoschi](https://github.com/gabrieltoschi)): programming, level design
+* William "VViliam" Ferreira ([@wqferr](https://github.com/wqferr)): programming, music, level design
+* João Reis ([@JonReyz](https://github.com/JonReyz)): programming, level design
 * Leonardo Maronezi: digital art
-* Jorge Hideki ([https://github.com/motokubo](@motokubo)): tutorship
+* Jorge Hideki ([@motokubo](https://github.com/motokubo)): tutorship
 * Gustavo "Brinco" Monteiro: tutorship

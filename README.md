@@ -1,1 +1,1 @@
-bipolar
+![Bipolar logo](/Assets/Sprites/bipolar.png?raw=true)
